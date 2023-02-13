@@ -11,12 +11,13 @@ Please download the folder `Module_1` for datasets, codes and notebooks. Below a
 
 ### Datasets
 
-This time we directly scraped data from [GoodReads.com](https://www.goodreads.com/) website. For the detailed web crawler code, please see `GoodReads_web_crawler.py` for further information. 
-<br> Some information are only available for logged-in users, so please register an account on the website beforehand. We manually code some prompts in the file to help you go through the complete process, please follow the prompt instructions when running .py file. The main input users need to provide is about your web browswer `User-Agent` and GoodReads website `Cookie`. The .py file will guide you to obtain these information. If you have any difficulty in this process, you can contact @Yanbo by email. <br>
+This time we directly scraped data from [GoodReads.com](https://www.goodreads.com/) website. For the detailed web crawler code, please see `GoodReads_web_crawler.py` for further information.
+
+Some information are only available for logged-in users, so please register an account on the website beforehand. We manually code some prompts in the file to help you go through the complete process, please follow the prompt instructions when running .py file. The main input users need to provide is about your web browswer `User-Agent` and GoodReads website `Cookie`. The .py file will guide you to obtain these information. If you have any difficulty in this process, you can contact @Yanbo by email. <br>
 
 If everything goes well, you can obtain 3 datasets: `Book information`, `Book reviews`, and `Book statistics`.
 
-The original scraped datasets are enormous, so we only upload a sample data (10 books for each genre) for experimental use, please see `book_stats` folder for source files. To avoid the loss of all previous information when the web scraping is interrupted by unexpected error, we store each book's information as a single CSV file. Then after scraping is done, we combine them together into two comprehensive CSVs (detailed process in [Data_preprocessing.ipynb](./Module_1/Data_preprocessing.ipynb)):
+The original scraped datasets are enormous, so we only upload a sample data (10 books for each genre) for experimental use, please see `book_stats` folder for source files. To avoid the loss of all previous information when the web scraping is interrupted by unexpected error, we store each book's information as a single CSV file. Then after scraping is done, we combine them together into two comprehensive CSVs (detailed codes of this process can be found in [Data_preprocessing.ipynb](./Module_1/Data_preprocessing.ipynb)):
 - Book_info.csv
 - Book_reviews.csv
 
