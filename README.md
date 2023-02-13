@@ -1,6 +1,6 @@
 # GoodReads-Recommendation-System
-@Group 18 <br>
-@Yanbo Wang, Yinuo Hu, Jiaming Xiong, Xinlin Huang, Shichen Wu, Wenxuan Yang
+### @Group 18 <br>
+### @Yanbo Wang, Yinuo Hu, Jiaming Xiong, Xinlin Huang, Shichen Wu, Wenxuan Yang
 ---
 
 This is a repository for UC Berkeley INDENG 243: Analytics Lab Group Project
