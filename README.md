@@ -34,7 +34,7 @@ The part 5 about `textual data exploration` might take a longer time for running
 
 ### Report
 
-The report for Module 1 is also uploaded in the folder `Module_1`, named as [INDENG243 Module 1 Report - Group 18](./Module_1/INDENG243 Module 1 Report - Group18.pdf)
+The report for Module 1 is also uploaded in the folder `Module_1`, named as [INDENG243 Module 1 Report - Group 18](./Module_1/INDENG243\ Module\ 1\ Report\ -\ Group\ 18.pdf)
 
 
 
