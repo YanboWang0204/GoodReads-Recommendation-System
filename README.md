@@ -28,7 +28,7 @@ Here due to the repository storage limit (<= 100MB), we compressed the `Book_rev
 
 The main codes for Module 1 are stored in [INDENG243_Project.ipynb](./Module_1/INDENG243_Project.ipynb), you can simply follow the instructions in that notebook to run our codes sequentially by order.
 
-Among them, the 2.1.1 `Data pro-processing` part and `Interactive plots` are stored as separate Jupyter notebooks to avoid some problems caused by incomplete datasets and display problem of interactive plots in the format of HTML. If you are only interested in the main parts of the code, you can simply start from 2.1.2 `Data Cleansing` part to get a big picture of our project.
+Among them, the 2.1.1 `Data pro-processing` part and `Interactive plots` are stored as separate Jupyter notebooks to avoid some problems caused by incomplete datasets and display problem of interactive plots in the format of HTML. If you are only interested in the main parts of the code, you can simply start from the fist line of code in notebook to get a big picture of our project.
 
 The part 5 about `textual data exploration` might take a longer time for running, actually it runs about 1 hour on our laptop, so you might jump out this process or simply visualize the output results in our notebook.
 
