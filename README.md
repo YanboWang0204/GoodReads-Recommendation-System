@@ -17,7 +17,7 @@ Some information are only available for logged-in users, so please register an a
 
 If everything goes well, you can obtain 3 datasets: `Book information`, `Book reviews`, and `Book statistics`.
 
-The original scraped datasets are enormous, so we only upload a sample data (10 books for each genre) for experimental use, please see `book_stats` folder for source files. To avoid the loss of all previous information when the web scraping is interrupted by unexpected error, we stored each book's information as a single CSV file. Then after scraping is done, we combine them together into two comprehensive CSVs (detailed codes of this process can be found in [Data_preprocessing.ipynb](./Module_1/Data_preprocessing.ipynb)):
+The original scraped datasets are enormous, so we only upload a sample data (10 books for each genre) for experimental use, please see `book_stats` folder for source files (first compress .zip file). To avoid the loss of all previous information when the web scraping is interrupted by unexpected error, we stored each book's information as a single CSV file. Then after scraping is done, we combine them together into two comprehensive CSVs (detailed codes of this process can be found in [Data_preprocessing.ipynb](./Module_1/Data_preprocessing.ipynb)):
 - Book_info.csv
 - Book_reviews.csv
 
