@@ -17,7 +17,7 @@ Some information are only available for logged-in users, so please register an a
 
 If everything goes well, you can obtain 3 datasets: `Book information`, `Book reviews`, and `Book statistics`.
 
-The original scraped datasets are enormous, so we only upload a sample data (10 books for each genre) for experimental use, please see `book_stats` folder for source files (first compress .zip file). To avoid the loss of all previous information when the web scraping is interrupted by unexpected error, we stored each book's information as a single CSV file. Then after scraping is done, we combine them together into two comprehensive CSVs (detailed codes of this process can be found in [Data_preprocessing.ipynb](./Module_1/Data_preprocessing.ipynb)):
+The original scraped datasets are enormous, so we only upload a sample data (10 books for each genre) for experimental use, please see `book_stats` folder for source files (first compress .zip file). To avoid the loss of all previous information when the web scraping is interrupted by unexpected error, we stored each book's information as a single CSV file. Then after scraping is done, we combine them together into two comprehensive CSVs (detailed codes of this process can be found in [Data_preprocessing.ipynb](./Module_1/Notebooks/Data_preprocessing.ipynb)):
 - Book_info.csv
 - Book_reviews.csv
 
@@ -27,7 +27,7 @@ Here due to the repository storage limit (<= 100MB), we compressed the `Book_rev
 
 ### Jupyter notebooks usage
 
-The main codes for Module 1 are stored in [INDENG243_Project.ipynb](./Module_1/INDENG243_Project.ipynb), you can simply follow the instructions in that notebook to run our codes sequentially by order.
+The main codes for Module 1 are stored in [INDENG243_Project.ipynb](./Module_1/Notebooks/INDENG243_Project.ipynb), you can simply follow the instructions in that notebook to run our codes sequentially by order.
 
 Among them, the 2.1.1 `Data pro-processing` part and `Interactive plots` are stored as separate Jupyter notebooks to avoid some problems caused by incomplete datasets and display problem of interactive plots in HTML. 
 
