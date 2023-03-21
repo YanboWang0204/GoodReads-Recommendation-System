@@ -29,7 +29,7 @@ Here due to the repository storage limit (<= 100MB), we compressed the `Book_rev
 
 The main codes for Module 1 are stored in [INDENG243_Project.ipynb](./Module_1/Notebooks/INDENG243_Project.ipynb), you can simply follow the instructions in that notebook to run our codes sequentially by order.
 
-Among them, the 2.1.1 `Data pro-processing` part and `Interactive plots` are stored as separate Jupyter notebooks to avoid some problems caused by incomplete datasets and display problem of interactive plots in HTML. 
+Among them, the 2.1.1 `Data pre-processing` part and `Interactive plots` are stored as separate Jupyter notebooks to avoid some problems caused by incomplete datasets and display problem of interactive plots in HTML. 
 
 If you are interested in the whole organization of codes, you can simply start from the fist line in notebook to get a big picture of our project. 
 
@@ -59,6 +59,8 @@ Since this part involves many variations of datasets (corresponding to different
 - **Partial_Datasets**: Some intermediate files before reaching our final ones, you can use them if you want to completely replicate the whole process (Part 1)
 - **Basic_datasets**: The base datasets for book information & book reviews, the datasets used mainly in the part `Model data preparation` and NLP models (Part 1 & 3);
 - **Rec_models_datasets**: The selected data for recommendation models' use (Part 2);
+
+P.S. Remember to first decompress the .zip files before use and put them into your working directory to take care of path problems.
 
 ### Jupyter notebooks & NLP codes
 
