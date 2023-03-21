@@ -51,7 +51,7 @@ Please download the folder `Module_2` for datasets, codes and notebooks. Below a
 
 ### Datasets
 
-This time we conducted some modifications on original datasets, you can first download original datasets from [Module 1 Datasets](./Module_1/Datasets) to completely replicate our process of getting datasets for final use. If you simply want to use the updated ones, please see [Module 2 Datasets Basic_Datasets](./Module_2/Datasets/Basic_Datasets) for all completed datasets. 
+This time we conducted some modifications on original datasets, you can first download original datasets from [Module 1 Datasets](./Module_1/Datasets) to completely replicate our process of getting datasets for final use. If you simply want to use the updated ones, please see [Module 2 Datasets Basic_Datasets](./Module_2/Datasets/Basic_datasets) for all completed datasets. 
 
 We added some additional data and the corresponding web scraping codes can be found in `Uid_genre.py` & `Genre_Book_Add.py`. The main jupyter notebook will discuss why we need these additional data.
 
