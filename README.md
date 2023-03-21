@@ -53,11 +53,11 @@ Please download the folder `Module_2` for datasets, codes and notebooks. Below a
 
 This time we conducted some modifications on original datasets, you can first download original datasets from [Module 1 Datasets](./Module_1/Datasets) to completely replicate our process of getting datasets for final use. If you simply want to use the updated ones, please see [Module 2 Datasets Basic_Datasets](./Module_2/Datasets/Basic_datasets) for all completed datasets. 
 
-We added some additional data and the corresponding web scraping codes can be found in `Uid_genre.py` & `Genre_Book_Add.py`. The main jupyter notebook will discuss why we need these additional data.
+We added some additional data and the corresponding web scraping codes can be found in `Uid_Genre.py` & `Genre_Book_Add.py`. The main jupyter notebook will discuss why we need these additional data.
 
 Since this part involves many variations of datasets (corresponding to different operations we have done for model use), I created some sub-folders under [Datasets](./Module_2/Datasets) to help classify their uses and make files organized:
 - **Partial_Datasets**: Some intermediate files before reaching our final ones, you can use them if you want to completely replicate the whole process (Part 1)
-- **Basic_datasets**: The base datasets for book information & book reviews, the datasets used mainly in the part `Model data preparation` and NLP models (Part 1 & 3);
+- **Basic_datasets**: The base datasets for book information & book reviews, the datasets used mainly in the part `Model data preparation` and `NLP models` (Part 1 & 3);
 - **Rec_models_datasets**: The selected data for recommendation models' use (Part 2);
 
 P.S. Remember to first decompress the .zip files before use and put them into your working directory to take care of path problems.
